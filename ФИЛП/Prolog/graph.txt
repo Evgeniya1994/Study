@@ -1,0 +1,10 @@
+node(a).
+node(b).
+node(c).
+node(d).
+edge(a,b).
+edge(a,d).
+edge(a,c).
+edge(b,d).
+edge(b,c).
+edge(c,d).
